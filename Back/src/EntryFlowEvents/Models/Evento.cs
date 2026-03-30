@@ -12,7 +12,7 @@ namespace EntryFlowEvents.Models
         public int Local { get; set; }
 
         public int DataEvento  { get; set; }
-        
-        public int  { get; set; }
+
+        public int Duracao { get; set; }
     }
 }
