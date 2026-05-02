@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj": {}
+    "f:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj": {}
   },
   "projects": {
-    "F:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj": {
+    "f:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj",
+        "projectUniqueName": "f:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj",
         "projectName": "EntryFlowEvents",
-        "projectPath": "F:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj",
+        "projectPath": "f:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\EntryFlowEvents.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "F:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\obj\\",
+        "outputPath": "f:\\EntryFlowEvents2\\Back\\src\\EntryFlowEvents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net5.0": {
@@ -56,7 +62,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
